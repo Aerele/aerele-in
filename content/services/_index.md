@@ -2,9 +2,12 @@
 title: 'Services'
 intro_image: images/undraw_interview_rmcf.svg
 intro_image_absolute: false
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Services to take your business to the next step
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Our dedicated efforts in the entire cycle of software application development
+with flexible delivery models and effective project management will let you focus
+on your business strengths, while we cover the technological advancements that are needed
+to sustain, stay upto the market standards and grow in this digital era.

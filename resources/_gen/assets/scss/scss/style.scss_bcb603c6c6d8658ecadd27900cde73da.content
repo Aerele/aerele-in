@@ -4153,12 +4153,12 @@ ol {
             color: #ffffff;
             display: inline-block;
             margin-right: 4px; } }
-  .sub-footer .zerostatic {
+  .sub-footer .aerele {
     display: inline-block;
     padding: 10px 10px 10px 0;
     color: #ffffff;
     text-decoration: none; }
-    .sub-footer .zerostatic:hover {
+    .sub-footer .aerele:hover {
       text-decoration: underline; }
 
 .logo {
@@ -4166,7 +4166,7 @@ ol {
   @media (min-width: 576px) {
     .logo {
       display: block;
-      width: 120px; } }
+      width: max-content; } }
   .logo img {
     width: 100%;
     height: auto; }
@@ -4177,7 +4177,7 @@ ol {
 
 .logo-mobile {
   display: block;
-  width: 40px;
+  width: max-content;
   padding: 10px 0 10px 0; }
   @media (min-width: 576px) {
     .logo-mobile {
@@ -4495,7 +4495,6 @@ ol {
 
 .intro-image-absolute {
   max-width: none;
-  width: 60%;
   padding: 0;
   margin-bottom: 30px; }
   @media (min-width: 768px) {
