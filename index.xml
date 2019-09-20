@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Aerele Technologies</title>
+    <link>/</link>
+    <description>Recent content in Home on Aerele Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enterprise Portals</title>
+      <link>/services/enterprise/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>/services/enterprise/</guid>
+      <description>Turn to us to get your business integrated into the connected software ecosystem. We do design, develop, maintain and support software solutions for enterprises with a whole lot of flexibility of engagement models and scopes. We not only get legacy systems migrated to newer platforms but also enrich it with fresh features.</description>
+    </item>
+    
+    <item>
+      <title>Peter Van Eijk</title>
+      <link>/team/peter-van-eijk/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/peter-van-eijk/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Prototyping</title>
+      <link>/services/prototyping/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>/services/prototyping/</guid>
+      <description>We build incremental prototypes to make any complex functionality ideas or applications simple helping our customers to envision it.With Conceptual Designs, Personas User Task Flows, Site Maps, Mood Boards, Adaptive Layouts and a few more, We will assay to get you and your ideas covered.</description>
+    </item>
+    
+    <item>
+      <title>Sage Kirk</title>
+      <link>/team/sage-kirk/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/team/sage-kirk/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+    <item>
+      <title>Manufacturing Applications</title>
+      <link>/services/manufacturing/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/manufacturing/</guid>
+      <description>Hailing from the Manchester of South India surrounded by manufacturing firms, you can expect the wealth of technical and business expertise combo in our solutions to any of your diverse and complex business needs. You can trust that we&amp;rsquo;ll do it right the first time.</description>
+    </item>
+    
+    <item>
+      <title>Technology Consulting</title>
+      <link>/services/consulting/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>/services/consulting/</guid>
+      <description>Our techies have got a considerable experience in adding value to the present or upcoming solutions in your tech ecosystem. We&amp;rsquo;re a little nerdy and so forsee and assess your risks and can clearly address your highest security needs. Ping us with your needs. We promise to have a solution for it the next time we meet.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Integrations</title>
+      <link>/services/devops/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/devops/</guid>
+      <description>Techies, you shall innovate faster more reliably while we optimize your capabilities in terms of infrasctructure automation, continous integration and continous delivery. Behind the scenes, it boosts your developement speed, relaiability and efficiency by embracing an automated and agile way of working.</description>
+    </item>
+    
+    <item>
+      <title>Requirements Engineering</title>
+      <link>/services/requirements_engineering/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/requirements_engineering/</guid>
+      <description>We elicite and validate your requirements throughly right from the scratch to define the scope and context of the projects. We are determined to ensure all the use cases to be complete, correct, feasible, concise, prioritized, unambiguous and verifiable.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>We are located here at Tiruppur, Tamil Nadu and you&amp;rsquo;re most welcome to bump into our office if you&amp;rsquo;ve got some exciting ideas.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>We at Aerele Technologies are focused in helping the business leaders to spend all their mind-space in improving and taking their business to new heights. The rest on the technology part should be on us.
+All we brainstrom during the breaks are the options that we can add or improve which shall help the business owners to get the most benefit out of the solutions provided by us.
+Afterall, you choose us.</description>
+    </item>
+    
+  </channel>
+</rss>
