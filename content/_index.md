@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: false
 
 # Lead your business future-forward!
 
-## We are a bunch of next-gen techies assisting business leaders to focus on their core-business strengths.
+## We are a bunch of next-gen techies assisting business leaders to focus on their core business strengths.
