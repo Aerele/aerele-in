@@ -8,4 +8,4 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-## We are located [here](https://g.page/aerele) at Tiruppur, Tamil Nadu and you're most welcome to bump into our office if you've got some exciting ideas.
+We are located [here](https://g.page/aerele) at Tiruppur, Tamil Nadu and you're most welcome to bump into our office if you've got some exciting ideas.
