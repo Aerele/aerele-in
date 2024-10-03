@@ -5,6 +5,6 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: false
 ---
 
-# Lead your business future-forward!
+# We are Aerele Technologies, a passionate team of expert Frappe developers.
 
-## We are a bunch of next-gen techies assisting business leaders to focus on their core business strengths.
+## We specialize in developing custom Frappe solutions, tailoring ERPNext to your needs, partnering with implementation teams for development, and actively contributing to the core of ERPNext.
